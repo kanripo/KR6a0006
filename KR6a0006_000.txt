@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 般泥洹經
+#+DATE: 2015-08-30 19:27:50.878946
+#+PROPERTY: JUAN 0
