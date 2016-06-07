@@ -1,16 +1,19 @@
-#+TITLE: 般泥洹經 / T@YUAN
-#+DATE: 2015-11-26 13:03:33.359693
+#+TITLE: 般泥洹經 
+#+DATE: 2016-06-08 06:18:49.331156
+
 * 版本
- |     CBETA|CBETA   |
+ |     CBETA|【電子佛典集成】|
  |         T|【大】     |
- |      T@LI|【大→麗】   |
- |    T@MING|【大→明】   |
  |    T@SONG|【大→宋】   |
- | T@UNKNOWN|【大→unknown】|
  |    T@YUAN|【大→元】   |
- |       TKD|TKD     |
+ |    T@MING|【大→明】   |
+ |      T@LI|【大→麗】   |
+ |   T@QISHA|【大→磧砂】  |
+ | T@UNKNOWN|【大→unknown】|
 
 * 目次
+
 * 卷
-** [[file:KR6a0006_001.txt][般泥洹經 1]]
-** [[file:KR6a0006_002.txt][般泥洹經 2]]
+[[file:KR6a0006_001.txt][般泥洹經 1]]
+[[file:KR6a0006_002.txt][般泥洹經 2]]
+
